@@ -1,3 +1,4 @@
+# Devops IC batch - 02 git command Tutorial
 git push --set-upstream origin uat
 
 to marge from uat to main : 
